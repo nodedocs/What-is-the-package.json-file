@@ -1,0 +1,8 @@
+{
+  "title": "What is the `package.json` file",
+  "description": "`package.json`, a Node.js application manifest",
+  "date": "Fri Aug 26 2011 03:08:50 GMT-0700 (PST)",
+  "tags": ["npm", "conventions", "core"],
+  "authors": ["Nico Reed"],
+  "difficulty":2
+}
