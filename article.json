@@ -8,5 +8,8 @@
       "url": "https://github.com/nicoreed"
     }
   ],
-  "difficulty":2
+  "difficulty":2,
+  "categories": [
+    ["Modules and NPM"]
+  ]
 }
